@@ -1,2 +1,10 @@
 # Contact-Management-System--CMS-
-A lightweight C++ console app to add, view, and search personal contacts with phone, name, address, and description. It uses CSV file storage for data persistence and portability via simple file I/O operations. The menu-driven interface helps practice C++ file handling, OOP, and basic data management.
+#A simple yet efficient C++ console application for managing personal contacts. This lightweight contact manager allows users to add new contacts with phone numbers, names, addresses, and descriptions, #view all stored contacts, and search for specific contacts by phone number.
+#The system uses file I/O operations to persist contact data in CSV format, ensuring data is saved between program sessions. Features include an intuitive menu-driven interface, CSV-based storage for #easy data portability, and robust search functionality. Perfect for learning C++ file handling, object-oriented programming concepts, and basic data management techniques.
+#Key Features:
+
+#Add contacts with multiple fields
+#Display all contacts
+#Search by phone number
+#CSV file storage
+#Clean console interface
